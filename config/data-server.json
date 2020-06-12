@@ -1,0 +1,1 @@
+{"apps":[{"name":"data-server","cwd":"./","script":"./data-server.js","log_date_format":"YYYY-MM-DD HH:mm:ss","error_file":"./logs/data-server-error.log","out_file":"./logs/data-server-log.log","max_memory_restart":"1G"}]}

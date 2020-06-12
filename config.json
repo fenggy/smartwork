@@ -1,0 +1,19 @@
+{
+    "proxyLogLevel" : "debug",
+    "port": 3000,
+    "subCount": 2,
+    "defaultPort": {
+        "realServer": [],
+        "dataServer": [],
+        "sqlServer": [],
+        "ioServer": [],
+        "aiServer": []
+    },
+    "pgsql": {
+        "name": "smartwork2",
+        "pgsqlIp": "127.0.0.1",
+        "pgsqlPort": 4000,
+        "username": "postgres",
+        "password": "123456"
+    }
+}
